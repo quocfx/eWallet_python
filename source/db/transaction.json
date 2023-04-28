@@ -1,0 +1,95 @@
+{
+   "data": [
+      {
+         "transactionId": "2bf615cb-b4a1-4088-a460-dbf05803e2c1",
+         "merchantId": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "incomeAccount": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "outcomeAccount": "132236aa-3bd6-4760-9e82-ae395eaa41d0",
+         "amount": 2200,
+         "extraData": "MyExtraData",
+         "signature": "MySignature",
+         "status": "CANCELED",
+         "createdDate": "2023-04-28 09:49:00.518744",
+         "updateDate": "2023-04-28 17:36:05.014803",
+         "id": 237206256247457437
+      },
+      {
+         "transactionId": "c0efcd76-6b36-4f0b-9085-58cb40e3c64d",
+         "merchantId": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "incomeAccount": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "outcomeAccount": "132236aa-3bd6-4760-9e82-ae395eaa41d0",
+         "amount": 3300,
+         "extraData": "MyExtraData1",
+         "signature": "MySignature1",
+         "status": "EXPIRED",
+         "createdDate": "2023-04-28 11:07:46.752511",
+         "updateDate": "2023-04-28 11:57:33.052815",
+         "id": 167521261302428122
+      },
+      {
+         "transactionId": "799700d0-8130-4d69-9265-b12a252c91c6",
+         "merchantId": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "incomeAccount": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "outcomeAccount": "132236aa-3bd6-4760-9e82-ae395eaa41d0",
+         "amount": 3300,
+         "extraData": "MyExtraData1",
+         "signature": "MySignature1",
+         "status": "EXPIRED",
+         "createdDate": "2023-04-28 11:10:29.459154",
+         "updateDate": "2023-04-28 12:04:23.595942",
+         "id": 176854941802682850
+      },
+      {
+         "transactionId": "15762a1f-ca75-4ba9-9802-bcd4f62acd5c",
+         "merchantId": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "incomeAccount": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "outcomeAccount": "132236aa-3bd6-4760-9e82-ae395eaa41d0",
+         "amount": 3300,
+         "extraData": "MyExtraData1",
+         "signature": "MySignature1",
+         "status": "EXPIRED",
+         "createdDate": "2023-04-28 11:11:20.578861",
+         "updateDate": "2023-04-28 17:28:05.891610",
+         "id": 265983098060733058
+      },
+      {
+         "transactionId": "619c7f7c-8302-4709-9c42-a00c44a98fad",
+         "merchantId": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "incomeAccount": "0d25a82f-3638-44c6-bb1a-9acfcbaf7a42",
+         "outcomeAccount": null,
+         "amount": 3300,
+         "extraData": "MyExtraData1",
+         "signature": "MySignature1",
+         "status": "EXPIRED",
+         "createdDate": "2023-04-28 11:36:01.389736",
+         "updateDate": "2023-04-28 11:36:01.389736",
+         "id": 114357055785081266
+      },
+      {
+         "transactionId": "edbbfa6b-8a73-4390-b0bf-518d6d745e67",
+         "merchantId": "af26fd56-8169-49b6-adca-b2a3f122d65c",
+         "incomeAccount": "af26fd56-8169-49b6-adca-b2a3f122d65c",
+         "outcomeAccount": null,
+         "amount": 4300,
+         "extraData": "MyExtraData1",
+         "signature": "MySignature1",
+         "status": "FAILED",
+         "createdDate": "2023-04-28 21:32:06.166090",
+         "updateDate": "2023-04-28 21:36:31.952257",
+         "id": 135298834296677478
+      },
+      {
+         "transactionId": "350a9a0d-91b8-40ad-8707-83222903fde6",
+         "merchantId": "af26fd56-8169-49b6-adca-b2a3f122d65c",
+         "incomeAccount": "af26fd56-8169-49b6-adca-b2a3f122d65c",
+         "outcomeAccount": "403b6d6e-e2c9-44ca-a95f-d261cecc91cb",
+         "amount": 1300,
+         "extraData": "MyExtraData1",
+         "signature": "MySignature1",
+         "status": "COMPLETED",
+         "createdDate": "2023-04-28 21:38:30.138876",
+         "updateDate": "2023-04-28 21:39:52.447888",
+         "id": 247159682267256926
+      }
+   ]
+}
